@@ -24,7 +24,7 @@
 <hr>
 <h3 align="left">📊 GitHub Stats:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=123krissh&show_icons=true&locale=en&layout=compact" alt="123krissh" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=123krissh&" alt="123krissh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=123krissh&" alt="123krissh" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=123krissh&show_icons=true&locale=en" alt="123krissh" /></p>
 <hr>
 <h3 align="left">🏆 GitHub Trophies:</h3>

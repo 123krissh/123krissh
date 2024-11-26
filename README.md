@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=123krissh&label=Profile%20views&color=0e75b6&style=flat" alt="123krissh" /> </p>
 <h1 align="center">Hi 👋, I'm Krishna Suthar</h1>
 
-<h3 align="center">I am a passionate B.Tech student in Artificial Intelligence and Data Science with a strong interest in front-end development and machine learning. My goal is to create dynamic, user-friendly web applications that solve real-world problems.</h3>
+<p align="center">I am a passionate B.Tech student in Artificial Intelligence and Data Science with a strong interest in front-end development and machine learning. My goal is to create dynamic, user-friendly web applications that solve real-world problems.</p>
 
 <p align="center">
   <a href="https://123krissh.github.io/Portfolio/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/004/206/406/non_2x/ks-logo-monogram-emblem-style-with-crown-shape-design-template-free-vector.jpg" alt="krishna suthar" height="500" width="1000" /></a>
@@ -29,3 +29,5 @@
 <hr>
 <h3 align="left">🏆 GitHub Trophies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=123krissh" alt="123krissh" /></a> </p>
+<h3 align="left">💡 Fun Fact</h3>
+<p> I love tackling new challenges and am always eager to learn new technologies! When I'm not coding, you can find me exploring the latest trends in AI and web development. </p>

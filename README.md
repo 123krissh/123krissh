@@ -4,7 +4,7 @@
 <p align="center">I am a passionate B.Tech student in Artificial Intelligence and Data Science with a strong interest in Web development, AI, machine learning & Data Science. My goal is to create dynamic, user-friendly web applications that solve real-world problems.</p>
 
 <p align="center">
-  <a href="[https://123krissh.github.io/Portfolio](https://krishna-suthar.vercel.app/)" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/004/206/406/non_2x/ks-logo-monogram-emblem-style-with-crown-shape-design-template-free-vector.jpg" alt="krishna suthar" height="500" width="1000" /></a>
+  <a href="https://krishna-suthar.vercel.app" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/004/206/406/non_2x/ks-logo-monogram-emblem-style-with-crown-shape-design-template-free-vector.jpg" alt="krishna suthar" height="500" width="1000" /></a>
 </p>
 
 - 🌱 I’m currently learning **MERN & DSA**

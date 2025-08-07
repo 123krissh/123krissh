@@ -1,13 +1,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=123krissh&label=Profile%20views&color=0e75b6&style=flat" alt="123krissh" /> </p>
 <h1 align="center">Hi 👋, I'm Krishna Suthar</h1>
 
-<p align="center">I am a passionate B.Tech student in Artificial Intelligence and Data Science with a strong interest in Web development, AI, machine learning & Data Science. My goal is to create dynamic, user-friendly web applications that solve real-world problems.</p>
+<p align="center">I am a passionate B.Tech student in Artificial Intelligence and Data Science with a strong interest in Full stack web development, AI, machine learning & Data Science. My goal is to create dynamic, user-friendly web applications that solve real-world problems.</p>
 
 <p align="center">
   <a href="https://krishna-suthar.vercel.app" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/004/206/406/non_2x/ks-logo-monogram-emblem-style-with-crown-shape-design-template-free-vector.jpg" alt="krishna suthar" height="500" width="1000" /></a>
 </p>
 
-- 🌱 I’m currently learning **MERN & DSA**
+- 🌱 I’m currently learning **DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/123krissh](https://github.com/123krissh)
 
